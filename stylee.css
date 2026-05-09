@@ -1,0 +1,16 @@
+  body{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+      #shape{
+        width: 200px;
+        height: 200px;
+        background-color: red;
+        display: bold;
+        position: relative;
+      }
+      #shape:hover{
+        cursor: pointer;
+      }
+      .bold{
+        font-weight: bold;
+      }
